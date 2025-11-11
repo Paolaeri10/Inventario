@@ -12,7 +12,11 @@ public class void main(String[] args){
  // Variables principales 
  System.out.println(" ingresar la demanda anual (D): ");
  double D = lector.nextDouble();
- System.out.println(" ingrese el costo por ordenar (S): ")
+ System.out.println(" ingrese el costo por ordenar (S): ");
  double S = lector.nextDouble();
+ System.out.println("ingresa el costo de mantener el inventario por unidad (H): ");
+ double H = lector.nextDouble();
+ System.out.println("\n Hay descuento por cantidad (1 = si, 0 = No: ");
+ int opcion = lector.nextInt();
  
 }
