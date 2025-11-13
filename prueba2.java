@@ -18,5 +18,7 @@ public class void main(String[] args){
  double H = lector.nextDouble();
  System.out.println("\n Hay descuento por cantidad (1 = si, 0 = No: ");
  int opcion = lector.nextInt();
+
+ 
  
 }
